@@ -19,7 +19,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/ecommerce-store.git
+git clone https://github.com/Pio1924/ecommerce-store.git
 Set up the Database:
 
 Import the database schema from database/schema.sql.
